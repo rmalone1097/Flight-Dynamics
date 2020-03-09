@@ -1,3 +1,5 @@
+%Given initial flight conditions, this function solves direction-cosine matrix and plots 3-2-1 Euler Angles
+
 function Euler321_mod(tmax,psi0,theta0,phi0,omega,order,wtype)
 % wtype: specify based on form of omega(t) specified, here, if: 
 % wtype=0 (constant omega components)
