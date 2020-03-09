@@ -1,5 +1,3 @@
-%Robert Malone 50148157
-
 function Euler321_mod(tmax,psi0,theta0,phi0,omega,order,wtype)
 % wtype: specify based on form of omega(t) specified, here, if: 
 % wtype=0 (constant omega components)
